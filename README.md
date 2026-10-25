@@ -14,7 +14,7 @@ Choose a frame. Shape the lighting. Build a panoramic story. Export your finishe
 
 ### See it in action
 
-**[▶ Watch / download the 30-second demo](https://github.com/burhanuddin20/studio941-releases/releases/download/v1.0.3/Studio941-demo.mp4)**
+**[▶ Watch / download the 30-second demo]([https://github.com/burhanuddin20/studio941-releases/releases/download/v1.0.3/Studio941-demo.mp4](https://github.com/burhanuddin20/studio941-releases/blob/main/media/studio941_lowerquality.mp4))**
 
 A quick look at device frames, lighting, status bars, panoramic layouts, and the finished deck.
 
