@@ -1,20 +1,15 @@
 # Studio 9:41
 
-> **Coming soon:** The first public release is being prepared. Download and demo links below will become available when it is published.
-
 ## Your app deserves a great first impression.
 
 Meet **Studio 9:41** — a desktop studio for turning app screenshots into polished device mockups and App Store screenshot decks.
 
+### See it in action
+https://github.com/user-attachments/assets/5ab14aaf-96ee-4978-969b-33cc38bfcadb
+
 Choose a frame. Shape the lighting. Build a panoramic story. Export your finished set, all from one workspace.
 
-**This is our first public download, available for Mac and Windows.**
-
 ![A four-slide screenshot deck in Studio 9:41, with panoramic layouts, device mockups, and custom backgrounds](https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/studio941-deck.jpg)
-
-### See it in action
-
-**[▶ Watch / download the 30-second demo]([https://github.com/burhanuddin20/studio941-releases/releases/download/v1.0.3/Studio941-demo.mp4](https://github.com/burhanuddin20/studio941-releases/blob/main/media/studio941_lowerquality.mp4))**
 
 A quick look at device frames, lighting, status bars, panoramic layouts, and the finished deck.
 
