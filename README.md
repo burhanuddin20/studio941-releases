@@ -43,6 +43,20 @@ A quick look at device frames, lighting, status bars, panoramic layouts, and the
 2. Pick a layout, edit the headline, and adjust the background.
 3. Build out your deck and export when it feels right.
 
+## A closer look
+
+**Light workspace — device framing, shadows, and a turquoise backdrop**
+
+![Light workspace — device framing, shadows, and a turquoise backdrop](https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/studio941-light.png)
+
+**Dark workspace — the same composition in dark mode**
+
+![Dark workspace — the same composition in dark mode](https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/studio941-dark.png)
+
+**A different finish — Cosmic Orange device frame with a pink background**
+
+![A different finish — Cosmic Orange device frame with a pink background](https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/studio941-pink.png)
+
 ## Before you install
 
 **Mac:** Both versions are Developer ID signed and notarized by Apple.
