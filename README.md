@@ -7,6 +7,10 @@ Meet **Studio 9:41** — a desktop studio for turning app screenshots into polis
 ### See it in action
 https://github.com/user-attachments/assets/5ab14aaf-96ee-4978-969b-33cc38bfcadb
 
+[![Follow on X](https://img.shields.io/badge/X-@burhan00100-black?style=flat-square&logo=x)](https://x.com/burhan00100)
+
+[![Downloads](https://img.shields.io/github/downloads/burhanuddin20/studio941-releases/total?style=flat-square&color=blue)](https://github.com/burhanuddin20/studio941-releases/releases/latest)
+
 Choose a frame. Shape the lighting. Build a panoramic story. Export your finished set, all from one workspace.
 
 ![A four-slide screenshot deck in Studio 9:41, with panoramic layouts, device mockups, and custom backgrounds](https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/studio941-deck.jpg)
