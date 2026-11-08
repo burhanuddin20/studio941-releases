@@ -123,6 +123,19 @@ The built-in catalogue includes English, French, Spanish, German, Japanese, Simp
   <img src="https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/v1.1.0/studio941-ai-localization.png" alt="Studio 9:41 Localization Studio" width="100%" />
 </p>
 
+Translate once, then preview the localized design directly in the editor before export.
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/v1.1.0/studio941-localized-english.png" alt="English App Store design in Studio 9:41" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/v1.1.0/studio941-localized-french.png" alt="French App Store design in Studio 9:41" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>English source design</strong></td>
+    <td align="center"><strong>French localized design</strong></td>
+  </tr>
+</table>
+
 ### Two translation methods
 
 | Method | How it works |
