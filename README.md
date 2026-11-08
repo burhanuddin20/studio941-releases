@@ -21,17 +21,17 @@ Studio 9:41 brings device mockups, reusable layouts, panoramic decks, platform v
 
 ## Download Studio 9:41
 
-Open the [latest release](https://github.com/burhanuddin20/studio941-releases/releases/latest) and choose the installer for your computer:
+Download the latest installer directly for your computer:
 
-| Platform | Computer | Choose this asset | Verification |
+| Platform | Computer | Direct download | Verification |
 | :--- | :--- | :--- | :--- |
-| macOS | Apple Silicon — M-series chips | `Studio.941_*_aarch64.dmg` | Apple signed and notarized |
-| macOS | Intel — x86_64 | `Studio.941_*_x64.dmg` | Apple signed and notarized |
-| Windows | 64-bit — x64 | `Studio.941_*_x64-setup.exe` | NSIS installer, currently unsigned |
-| Windows | Managed installation | `Studio.941_*_x64_en-US.msi` | MSI installer, currently unsigned |
+| macOS | Apple Silicon — M-series chips | [**Download Apple Silicon DMG**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.0_aarch64.dmg) | Apple signed and notarized |
+| macOS | Intel — x86_64 | [**Download Intel DMG**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.0_x64.dmg) | Apple signed and notarized |
+| Windows | 64-bit — x64 | [**Download Windows EXE**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.0_x64-setup.exe) | NSIS installer, currently unsigned |
+| Windows | Managed installation | [**Download Windows MSI**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.0_x64_en-US.msi) | MSI installer, currently unsigned |
 
 <p align="center">
-  <a href="https://github.com/burhanuddin20/studio941-releases/releases/latest"><strong>Download the latest release →</strong></a>
+  <a href="https://github.com/burhanuddin20/studio941-releases/releases/latest"><strong>View release notes and all assets →</strong></a>
 </p>
 
 > Windows may show an unknown-publisher or Microsoft Defender SmartScreen warning until Windows publisher signing is added.
