@@ -13,9 +13,8 @@
 **Available for macOS and Windows**
 
 </div>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/v1.1.0/studio941-platform-workflows.png" alt="Studio 9:41 editing a linked Android design" width="100%" />
+  <img src="https://raw.githubusercontent.com/burhanuddin20/studio941-releases/main/media/v1.1.0/studio941-localized-english.png" alt="Studio 9:41 editing a linked Android design" width="100%" />
 </p>
 
 Studio 9:41 brings device mockups, reusable layouts, panoramic decks, platform variants, AI localization, status-bar cleanup, and batch export into one native desktop app. Rendering and non-AI exports happen locally on your computer.
