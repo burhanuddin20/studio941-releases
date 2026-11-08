@@ -19,6 +19,10 @@
 
 Studio 9:41 brings device mockups, reusable layouts, panoramic decks, platform variants, AI localization, status-bar cleanup, and batch export into one native desktop app. Rendering and non-AI exports happen locally on your computer.
 
+## See Studio 9:41 in action
+
+https://github.com/user-attachments/assets/5ab14aaf-96ee-4978-969b-33cc38bfcadb
+
 ## Download Studio 9:41
 
 Download the latest installer directly for your computer:
