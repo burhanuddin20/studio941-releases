@@ -29,10 +29,10 @@ Download the latest installer directly for your computer:
 
 | Platform | Computer | Direct download | Verification |
 | :--- | :--- | :--- | :--- |
-| macOS | Apple Silicon — M-series chips | [**Download Apple Silicon DMG**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.1_aarch64.dmg) | Apple signed and notarized |
-| macOS | Intel — x86_64 | [**Download Intel DMG**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.1_x64.dmg) | Apple signed and notarized |
-| Windows | 64-bit — x64 | [**Download Windows EXE**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.1_x64-setup.exe) | NSIS installer, currently unsigned |
-| Windows | Managed installation | [**Download Windows MSI**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.1_x64_en-US.msi) | MSI installer, currently unsigned |
+| macOS | Apple Silicon — M-series chips | [**Download Apple Silicon DMG**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.2_aarch64.dmg) | Apple signed and notarized |
+| macOS | Intel — x86_64 | [**Download Intel DMG**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.2_x64.dmg) | Apple signed and notarized |
+| Windows | 64-bit — x64 | [**Download Windows EXE**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.2_x64-setup.exe) | NSIS installer, currently unsigned |
+| Windows | Managed installation | [**Download Windows MSI**](https://github.com/burhanuddin20/studio941-releases/releases/latest/download/Studio.941_1.1.2_x64_en-US.msi) | MSI installer, currently unsigned |
 
 <p align="center">
   <a href="https://github.com/burhanuddin20/studio941-releases/releases/latest"><strong>View release notes and all assets →</strong></a>
